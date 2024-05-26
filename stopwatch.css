@@ -1,0 +1,24 @@
+.mian{
+    margin-top: 30%;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+
+}
+span{
+    padding: 20px;
+}
+
+button{
+    padding: 10px;
+ 
+}
+
+.setter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 7px;
+}
